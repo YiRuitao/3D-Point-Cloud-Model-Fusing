@@ -1,5 +1,9 @@
 # Advanced Vision Coursework
 
+Jianmeng Yu, Ruitao Yi
+
+The University of Edinburgh
+
 This project process and combine 50 3D point cloud data from a Kinect Sensor:   
 ![alt text](https://github.com/JianmengYu/av_coursework/blob/master/original.jpg)  
 To a single 3D point cloud below:  
